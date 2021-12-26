@@ -1,0 +1,878 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240376249487,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,442510,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,945821,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3301,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1716634765,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1455509,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,184897,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34240,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,535123,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,482979,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267531520,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1168711860,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,741477945,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34436113,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8037986,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,251071407,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1413503,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4492541,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,831000610,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1183447,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10248,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8894735,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2981068,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12395669,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6053,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1426489454,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3226223,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6556,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23635,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,819847,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2975237,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47369016,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29228476,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266204,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7312479,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60317446,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5665061,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2909082437,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5854,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1602130,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36322,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74023630,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26745,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,633784958,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13288636101,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36957,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13461,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,267346556,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,734758,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,762612,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46004,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56636,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,212136312,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15142045,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,265444877,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1755616,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,126463578,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5590,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,769958217,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,256025,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81885424,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100913917,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31756543,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,329285725,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4333826,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27087,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32442207,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5926947,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365458,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2896086,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,673006541,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3627241338,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1589101,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16235,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,235303,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1750213,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2577506,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80483,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6182421006,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34929979,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178686,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6531,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,81061911,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,779577,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,773913,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,645621,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104592681,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26427364,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,143822093,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13285230,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10256,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69772065,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,613848136,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137349252,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24435029,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,663629866,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45224403,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,805430542,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1363603889,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,443490049,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3303972706,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71593843,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,189426362,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9882955933,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13125021,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4130720,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9622525,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53422,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3654012791,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36706698,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12884861,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4343530,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6980602,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6390109,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8979095,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2516644,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6371737,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44172252,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42593745,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62067976,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13373110,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1104766,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1629007228,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5314886,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,782257,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18190466,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,486358,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8184675,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8717559803,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2689852439,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11797534,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2667981,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,323946,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66539066,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70064,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5006955,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12534460,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,214075,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6995384,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1214012356,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17021173,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5706863,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,293942,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63124,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,386969706,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29440696,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,995216,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,316048838,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,628,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5260,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3084936245,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8428604,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,196679195,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90986347,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2219864,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8840943,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,187806486,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,698581622,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32019,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,266625780,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,198619490,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5487163,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,101073806,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,578023737,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15877,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144572,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6236916,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5451,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190056,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,523609,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88500,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1957476,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,657389320,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,848646,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1399731,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2353904,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1017947268,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,746049653,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96988407,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240747954,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35462490,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84647,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,359670633,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6273307,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,848311731,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,80,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,158673,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,719291,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1827551,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1450849261,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1020376324,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69315855,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28625,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1333577719,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,705685,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145016,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,166564907,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21613161,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14444201,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,333700834,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4786430,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5707018,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3391674,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55757177,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2107135,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83099132,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6596724093,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2124916,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145755350530,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83186,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,97936847,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7415966,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,510007289,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1387,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10919,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145967,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5385368,,,0
+H2,2003,2003,2003,0,0,1,Import,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,222946,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,273873699602,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,287891,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2103232,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9728,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2390975851,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368737,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,308741,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37661,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,472153,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,628390,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230962019,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1419325963,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,999981678,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42827736,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4815801,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,377906210,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1523108,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6547395,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1041653979,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8379917,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14731,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17807279,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3024570,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17485682,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,165,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1807130750,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6403224,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,35202,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42908,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1373833,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2706735,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62942180,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19011741,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,180076,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8608493,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107820355,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10904241,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2850071232,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14748,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,830717,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85205,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87727738,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77511,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1006988205,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18549052879,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19593,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24971,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,322116774,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,68058,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3719454,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240499,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,247081,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,242948517,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19027012,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,454129324,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1307656,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181776635,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3786,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,772000468,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,241299,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98644274,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96506480,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39693541,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262303391,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4941372,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,15954,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18595664,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2429489,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,356,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4356662,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,747458053,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4107773046,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1952869,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5713,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,141232,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,641073,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8456118,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48944,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7253190130,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23662356,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,201292,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12020,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99387992,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,787813,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,969155,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,375351,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,139724351,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,19504585,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152145652,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17547463,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3404,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102329725,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,553297701,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,161395082,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23852945,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,716622036,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58335226,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,847721770,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1324501676,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,532184341,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3516481244,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87695800,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,264462687,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10399999594,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,37047831,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5174254,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11609470,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25345,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4486976600,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,102633,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96058,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6706338,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7682455,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10771659,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9374707,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6575418,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,65658604,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,118956390,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58924763,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66450372,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21492033,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1173655,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2026750752,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2409535,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,315941,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20009360,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,335847,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8031297,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10339012514,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3024724936,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43095314,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1929582,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183331,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,71140606,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,191014,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5605147,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31568360,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54579,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11328092,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1190276291,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25955872,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34479333,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374924,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,531408,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,414237743,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47338100,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1685501,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,72537560,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,75719,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3324,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3813916251,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14346361,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,188526774,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36104818,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1264494,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14166787,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,351562810,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,735982994,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22888,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297939742,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,230685234,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,306716,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27577503,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130370152,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1066068523,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42644,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109859,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6299021,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21454,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,281893,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170207,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94728,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108395,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,945226461,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,524577,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3102348,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2899742,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1213891613,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,752206926,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86240203,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,346400386,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42434686,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,62530,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,498365282,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2576944,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,970957146,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2348,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11554934,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,109532972,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2067519,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1665015013,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1281121136,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18834739,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60601,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1550183203,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,530270,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112502,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120267334,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,69621849,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18410552,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,469350514,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3467963,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5287614,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3831625,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,123805434,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2472540,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152760850,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7432389546,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10389882,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160827006670,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145078,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100029327,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28286977,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1011604845,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,77,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22503,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,133603,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7711897,,,0
+H2,2004,2004,2004,0,0,1,Import,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,164678,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314444418974,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,380738,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1043325,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,522023,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3446759214,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,558796,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,88277,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,274661091,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,460634,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,377128,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,394043478,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1442332344,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1065287706,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47125178,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6281000,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,404643751,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1458014,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6082660,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1480346571,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14645118,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13459,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20487696,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2251884,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,823220,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31801,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2594773313,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7967969,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9018,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105230,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2227930,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2767825,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73721079,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9149107,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,314963,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16516649,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108559658,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8297079,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2926692974,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16745,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,364317,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,174111,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,90109200,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10781,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1373126360,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24369378084,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17706,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73389,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,481850460,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79549,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,882283,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,434235,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,300719,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,291617490,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20951622,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,456458899,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14551874,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,250852550,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6944,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1293704612,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,639467,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99088590,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,94483138,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46286666,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451842247,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7139288,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30593,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45761822,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6766935,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86254,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5937491,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1007953119,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4126280063,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1521426,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,26340,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28458,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1125693,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39327306,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31187,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8480681314,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23990473,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,153364,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8743,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,120032810,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,440135,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,779361,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,116151,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170800275,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,24037291,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,121537940,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20726874,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2223,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,107211389,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,461647134,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181610222,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45946084,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,789251357,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36716365,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,996063226,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1696076422,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,671203520,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3790027978,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,110816483,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324491480,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12220229415,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30404524,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7221545,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13219331,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,40949,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4438072867,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56596671,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17737176,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5768767,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8958965,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12004110,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11623762,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11075035,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,76197237,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,422109016,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,73191226,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,34712206,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11839730,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1152512,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2155554753,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,324659,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178777,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,22768575,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,488922,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4766540,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12049994572,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3213076927,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130327569,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,16541609,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85382,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,124484682,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649039,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3846812,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46465671,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,877522,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10432019,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1262185948,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1202643,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,45968174,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,630631,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3872401,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,463292886,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,44945004,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2530839,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,145929021,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,57380,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2807,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4997432515,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11741161,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,204475445,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36878489,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2354963,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12606965,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1121105045,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,760599044,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8222,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,439686144,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,260906872,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3138,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,659845,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38090376,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,172761030,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1426054095,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,297982,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100156,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6500963,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,119531,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,422772,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20446,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,103082,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,95468,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1404728006,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,529946,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2556505,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2005247,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1474767557,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,803688624,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100766809,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,461544848,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,50798979,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,91367,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,576101980,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1995409,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,990654550,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,504,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,66409484,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,152214087,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3191533,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1896114029,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1760791381,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17971483,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,78136,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1636139011,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,451590,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53205,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,195853637,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54716598,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27381812,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,526147600,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3204891,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6213158,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2578238,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,244584006,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3376858,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,117265322,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8602338638,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,131452468,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,177635571120,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,178005,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,108013047,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,46722238,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1511548366,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,665,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4179,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,154988,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,891,Serbia and Montenegro,SCG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10959296,,,0
+H2,2005,2005,2005,0,0,1,Import,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,354489,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,350257149912,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,696676,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,8,Albania,ALB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1385909,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2979,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4373273568,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,16,American Samoa,ASM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,554981,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,20,Andorra,AND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,168883,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,534404069,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353681,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43609916,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,32,Argentina,ARG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,504496263,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1403927036,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,40,Austria,AUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1254709228,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20531327,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,89660314,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,50,Bangladesh,BGD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,479321202,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,51,Armenia,ARM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1886008,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,52,Barbados,BRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11999564,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,56,Belgium,BEL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1729078167,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14802099,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21953,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,43267591,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3348646,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,72,Botswana,BWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,408431,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,74,Bouvet Island,BVT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7958,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3005803256,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,84,Belize,BLZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8430825,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39371,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,90,Solomon Isds,SLB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,104366,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3632476,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1669747,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,98133685,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7424068,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,108,Burundi,BDI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,215838,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,112,Belarus,BLR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,25351712,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,116,Cambodia,KHM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,130951862,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5331718,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2959741016,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,150125,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,136,Cayman Isds,CYM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,237834,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,140,Central African Rep.,CAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,93831,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,99976348,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,148,Chad,TCD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27164,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,152,Chile,CHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1634871434,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30443272235,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,162,Christmas Isds,CXR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,79781,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,53419,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,564961473,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,174,Comoros,COM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100180,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,178,Congo,COG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1730090,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,571121,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,86494,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,343802794,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,191,Croatia,HRV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,23349695,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,192,Cuba,CUB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,555070639,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3438945,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,203,Czechia,CZE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,301226542,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,204,Benin,BEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,18376,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1255647908,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,212,Dominica,DMA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,223425,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,100691974,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,115243910,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59838441,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,207846937,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6136023,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,232,Eritrea,ERI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,96629,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,233,Estonia,EST,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,42908018,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7623827,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,275122,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,242,Fiji,FJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7590314,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,246,Finland,FIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,984503869,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4554662918,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,258,French Polynesia,PYF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2271119,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,85948,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,266,Gabon,GAB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1050540,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,268,Georgia,GEO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,49088354,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,270,Gambia,GMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58735,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9849533143,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,288,Ghana,GHA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47209137,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,292,Gibraltar,GIB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,167478,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,296,Kiribati,KIR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31663,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,300,Greece,GRC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,181026554,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,304,Greenland,GRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,444684,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,308,Grenada,GRD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,844593,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,316,Guam,GUM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,55466,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,199219373,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,324,Guinea,GIN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,29708878,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,328,Guyana,GUY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,125357288,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,332,Haiti,HTI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17423898,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,54220,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,340,Honduras,HND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,105045436,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,452379641,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,240400749,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,352,Iceland,ISL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,27328822,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,835267959,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,364,Iran,IRN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39256357,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1472478359,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,372,Ireland,IRL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2253773105,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,376,Israel,ISR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,769477379,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4347023274,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,170412861,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,365088898,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13521423756,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32742769,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,400,Jordan,JOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12860425,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,404,Kenya,KEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12924364,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,74010,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5085106275,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56267006,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,833883,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4859061,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,10315688,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,426,Lesotho,LSO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9337855,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,428,Latvia,LVA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,13348154,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,430,Liberia,LBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,17273221,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,434,Libya,LBY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59322120,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,440,Lithuania,LTU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,410062970,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,442,Luxembourg,LUX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,84303851,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,32807083,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14160365,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,454,Malawi,MWI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1299419,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2594547036,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,462,Maldives,MDV,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,368494,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,466,Mali,MLI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,353369,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,470,Malta,MLT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20778030,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,292946,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5515469,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,14131523790,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3425095743,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,496,Mongolia,MNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171620489,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21600391,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,499,Montenegro,MNE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,374021,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,500,Montserrat,MSR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,477898,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,504,Morocco,MAR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,149996519,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,859062,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,512,Oman,OMN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5408116,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,516,Namibia,NAM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,112821588,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,520,Nauru,NRU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,36471,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,524,Nepal,NPL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11575346,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1401009358,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,530,Neth. Antilles,ANT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56516638,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,533,Aruba,ABW,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134079082,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,416996,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,548,Vanuatu,VUT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,346396,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,435109928,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60407617,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,562,Niger,NER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2061218,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,649089071,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,570,Niue,NIU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,56664,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,20692,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4803706367,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8938273,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,248330718,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,591,Panama,PAN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,31284840,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2893244,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,12288539,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,604,Peru,PER,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1847743533,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,608,Philippines,PHL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,889381609,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,612,Pitcairn,PCN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,8004,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,616,Poland,POL,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,522002807,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,620,Portugal,PRT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,312631464,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,626,Timor-Leste,TLS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,930216,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,634,Qatar,QAT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,47598648,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,642,Romania,ROU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,183144584,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1579018207,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,646,Rwanda,RWA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,137484,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,654,Saint Helena,SHN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,30239,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,7759185,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,134648,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,144392,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,128795,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,262282,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,220079,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1516741895,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,686,Senegal,SEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,650661,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,688,Serbia,SRB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,11166037,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,690,Seychelles,SYC,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3528326,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1640774,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,699,India,IND,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1693253986,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,702,Singapore,SGP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,870117607,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,703,Slovakia,SVK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,155464740,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,576185019,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,705,Slovenia,SVN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,60831553,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,706,Somalia,SOM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,28438,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,717445733,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,4840640,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1237917579,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,732,Western Sahara,ESH,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,494,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,736,Fmr Sudan,SDN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,63136854,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,740,Suriname,SUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,190761300,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,748,Eswatini,SWZ,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1880159,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2079301510,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1894821916,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,760,Syria,SYR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,21913023,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,762,Tajikistan,TJK,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,83091,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,764,Thailand,THA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1986512369,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,768,Togo,TGO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1561134,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,776,Tonga,TON,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,59830,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,271059510,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,87540282,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,58340317,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,792,Turkey,TUR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,551372729,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,795,Turkmenistan,TKM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,5229378,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,6102085,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,800,Uganda,UGA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,2709797,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,171868277,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,807,North Macedonia,MKD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,3657713,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,122737152,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,9595038479,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,38324354,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,192177944211,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,70619,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,858,Uruguay,URY,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,48397869,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,860,Uzbekistan,UZB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,352811,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,1099040288,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,882,Samoa,WSM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,39691,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,887,Yemen,YEM,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,202260,,,0
+H2,2006,2006,2006,0,0,1,Import,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,,,,,,,160413,,,0
