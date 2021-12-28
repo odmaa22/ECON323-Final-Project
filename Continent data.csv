@@ -1,0 +1,196 @@
+continent,location,gdp_per_capita,Asia,Europe,NorthAmerica,SouthAmerica,Africa,Oceania
+Asia,Afghanistan,1803.987,1,0,0,0,0,0
+Europe,Albania,11803.431,0,1,0,0,0,0
+Africa,Algeria,13913.839,0,0,0,0,1,0
+Europe,Andorra,,0,1,0,0,0,0
+Africa,Angola,5819.495,0,0,0,0,1,0
+North America,Antigua and Barbuda,21490.943,0,0,1,0,0,0
+South America,Argentina,18933.907,0,0,0,1,0,0
+Asia,Armenia,8787.58,1,0,0,0,0,0
+Oceania,Australia,44648.71,0,0,0,0,0,1
+Europe,Austria,45436.686,0,1,0,0,0,0
+Asia,Azerbaijan,15847.419,1,0,0,0,0,0
+North America,Bahamas,27717.847,0,0,1,0,0,0
+Asia,Bahrain,43290.705,1,0,0,0,0,0
+Asia,Bangladesh,3523.984,1,0,0,0,0,0
+North America,Barbados,16978.068,0,0,1,0,0,0
+Europe,Belarus,17167.967,0,1,0,0,0,0
+Europe,Belgium,42658.576,0,1,0,0,0,0
+North America,Belize,7824.362,0,0,1,0,0,0
+Africa,Benin,2064.236,0,0,0,0,1,0
+Asia,Bhutan,8708.597,1,0,0,0,0,0
+South America,Bolivia,6885.829,0,0,0,1,0,0
+Europe,Bosnia and Herzegovina,11713.895,0,1,0,0,0,0
+Africa,Botswana,15807.374,0,0,0,0,1,0
+South America,Brazil,14103.452,0,0,0,1,0,0
+Asia,Brunei,71809.251,1,0,0,0,0,0
+Europe,Bulgaria,18563.307,0,1,0,0,0,0
+Africa,Burkina Faso,1703.102,0,0,0,0,1,0
+Africa,Burundi,702.225,0,0,0,0,1,0
+Asia,Cambodia,3645.07,1,0,0,0,0,0
+Africa,Cameroon,3364.926,0,0,0,0,1,0
+North America,Canada,44017.591,0,0,1,0,0,0
+Africa,Cape Verde,6222.554,0,0,0,0,1,0
+Africa,Central African Republic,661.24,0,0,0,0,1,0
+Africa,Chad,1768.153,0,0,0,0,1,0
+South America,Chile,22767.037,0,0,0,1,0,0
+Asia,China,15308.712,1,0,0,0,0,0
+South America,Colombia,13254.949,0,0,0,1,0,0
+Africa,Comoros,1413.89,0,0,0,0,1,0
+Africa,Congo,4881.406,0,0,0,0,1,0
+North America,Costa Rica,15524.995,0,0,1,0,0,0
+Africa,Cote d'Ivoire,3601.006,0,0,0,0,1,0
+Europe,Croatia,22669.797,0,1,0,0,0,0
+North America,Cuba,,0,0,1,0,0,0
+Europe,Cyprus,32415.132,0,1,0,0,0,0
+Europe,Czechia,32605.906,0,1,0,0,0,0
+Africa,Democratic Republic of Congo,808.133,0,0,0,0,1,0
+Europe,Denmark,46682.515,0,1,0,0,0,0
+Africa,Djibouti,2705.406,0,0,0,0,1,0
+North America,Dominica,9673.367,0,0,1,0,0,0
+North America,Dominican Republic,14600.861,0,0,1,0,0,0
+South America,Ecuador,10581.936,0,0,0,1,0,0
+Africa,Egypt,10550.206,0,0,0,0,1,0
+North America,El Salvador,7292.458,0,0,1,0,0,0
+Africa,Equatorial Guinea,22604.873,0,0,0,0,1,0
+Africa,Eritrea,1510.459,0,0,0,0,1,0
+Europe,Estonia,29481.252,0,1,0,0,0,0
+Africa,Eswatini,7738.975,0,0,0,0,1,0
+Africa,Ethiopia,1729.927,0,0,0,0,1,0
+Oceania,Fiji,8702.975,0,0,0,0,0,1
+Europe,Finland,40585.721,0,1,0,0,0,0
+Europe,France,38605.671,0,1,0,0,0,0
+Africa,Gabon,16562.413,0,0,0,0,1,0
+Africa,Gambia,1561.767,0,0,0,0,1,0
+Asia,Georgia,9745.079,1,0,0,0,0,0
+Europe,Germany,45229.245,0,1,0,0,0,0
+Africa,Ghana,4227.63,0,0,0,0,1,0
+Europe,Greece,24574.382,0,1,0,0,0,0
+North America,Grenada,13593.877,0,0,1,0,0,0
+North America,Guatemala,7423.808,0,0,1,0,0,0
+Africa,Guinea,1998.926,0,0,0,0,1,0
+Africa,Guinea-Bissau,1548.675,0,0,0,0,1,0
+South America,Guyana,7435.047,0,0,0,1,0,0
+North America,Haiti,1653.173,0,0,1,0,0,0
+North America,Honduras,4541.795,0,0,1,0,0,0
+Europe,Hungary,26777.561,0,1,0,0,0,0
+Europe,Iceland,46482.958,0,1,0,0,0,0
+Asia,India,6426.674,1,0,0,0,0,0
+Asia,Indonesia,11188.744,1,0,0,0,0,0
+Asia,Iran,19082.62,1,0,0,0,0,0
+Asia,Iraq,15663.986,1,0,0,0,0,0
+Europe,Ireland,67335.293,0,1,0,0,0,0
+Asia,Israel,33132.32,1,0,0,0,0,0
+Europe,Italy,35220.084,0,1,0,0,0,0
+North America,Jamaica,8193.571,0,0,1,0,0,0
+Asia,Japan,39002.223,1,0,0,0,0,0
+Asia,Jordan,8337.49,1,0,0,0,0,0
+Asia,Kazakhstan,24055.588,1,0,0,0,0,0
+Africa,Kenya,2993.028,0,0,0,0,1,0
+Asia,Kuwait,65530.537,1,0,0,0,0,0
+Asia,Kyrgyzstan,3393.474,1,0,0,0,0,0
+Asia,Laos,6397.36,1,0,0,0,0,0
+Europe,Latvia,25063.846,0,1,0,0,0,0
+Asia,Lebanon,13367.565,1,0,0,0,0,0
+Africa,Lesotho,2851.153,0,0,0,0,1,0
+Africa,Liberia,752.788,0,0,0,0,1,0
+Africa,Libya,17881.509,0,0,0,0,1,0
+Europe,Liechtenstein,,0,1,0,0,0,0
+Europe,Lithuania,29524.265,0,1,0,0,0,0
+Europe,Luxembourg,94277.965,0,1,0,0,0,0
+Africa,Madagascar,1416.44,0,0,0,0,1,0
+Africa,Malawi,1095.042,0,0,0,0,1,0
+Asia,Malaysia,26808.164,1,0,0,0,0,0
+Asia,Maldives,15183.616,1,0,0,0,0,0
+Africa,Mali,2014.306,0,0,0,0,1,0
+Europe,Malta,36513.323,0,1,0,0,0,0
+Oceania,Marshall Islands,3819.202,0,0,0,0,0,1
+Africa,Mauritania,3597.633,0,0,0,0,1,0
+Africa,Mauritius,20292.745,0,0,0,0,1,0
+North America,Mexico,17336.469,0,0,1,0,0,0
+Oceania,Micronesia,3299.464,0,0,0,0,0,1
+Europe,Moldova,5189.972,0,1,0,0,0,0
+Europe,Monaco,,0,1,0,0,0,0
+Asia,Mongolia,11840.846,1,0,0,0,0,0
+Europe,Montenegro,16409.288,0,1,0,0,0,0
+Africa,Morocco,7485.013,0,0,0,0,1,0
+Africa,Mozambique,1136.103,0,0,0,0,1,0
+Asia,Myanmar,5591.597,1,0,0,0,0,0
+Africa,Namibia,9541.808,0,0,0,0,1,0
+Asia,Nepal,2442.804,1,0,0,0,0,0
+Europe,Netherlands,48472.545,0,1,0,0,0,0
+Oceania,New Zealand,36085.843,0,0,0,0,0,1
+North America,Nicaragua,5321.444,0,0,1,0,0,0
+Africa,Niger,926,0,0,0,0,1,0
+Africa,Nigeria,5338.454,0,0,0,0,1,0
+Europe,North Macedonia,13111.214,0,1,0,0,0,0
+Europe,Norway,64800.057,0,1,0,0,0,0
+Asia,Oman,37960.709,1,0,0,0,0,0
+Asia,Pakistan,5034.708,1,0,0,0,0,0
+North America,Panama,22267.037,0,0,1,0,0,0
+Oceania,Papua New Guinea,3823.194,0,0,0,0,0,1
+South America,Paraguay,8827.01,0,0,0,1,0,0
+South America,Peru,12236.706,0,0,0,1,0,0
+Asia,Philippines,7599.188,1,0,0,0,0,0
+Europe,Poland,27216.445,0,1,0,0,0,0
+Europe,Portugal,27936.896,0,1,0,0,0,0
+Asia,Qatar,116935.6,1,0,0,0,0,0
+Europe,Romania,23313.199,0,1,0,0,0,0
+Europe,Russia,24765.954,0,1,0,0,0,0
+Africa,Rwanda,1854.211,0,0,0,0,1,0
+North America,Saint Kitts and Nevis,24654.385,0,0,1,0,0,0
+North America,Saint Lucia,12951.839,0,0,1,0,0,0
+North America,Saint Vincent and the Grenadines,10727.146,0,0,1,0,0,0
+Oceania,Samoa,6021.557,0,0,0,0,0,1
+Europe,San Marino,56861.47,0,1,0,0,0,0
+Africa,Sao Tome and Principe,3052.714,0,0,0,0,1,0
+Asia,Saudi Arabia,49045.411,1,0,0,0,0,0
+Africa,Senegal,2470.58,0,0,0,0,1,0
+Europe,Serbia,14048.881,0,1,0,0,0,0
+Africa,Seychelles,26382.287,0,0,0,0,1,0
+Africa,Sierra Leone,1390.3,0,0,0,0,1,0
+Asia,Singapore,85535.383,1,0,0,0,0,0
+Europe,Slovakia,30155.152,0,1,0,0,0,0
+Europe,Slovenia,31400.84,0,1,0,0,0,0
+Oceania,Solomon Islands,2205.923,0,0,0,0,0,1
+Africa,Somalia,,0,0,0,0,1,0
+Africa,South Africa,12294.876,0,0,0,0,1,0
+Asia,South Korea,35938.374,1,0,0,0,0,0
+Africa,South Sudan,1569.888,0,0,0,0,1,0
+Europe,Spain,34272.36,0,1,0,0,0,0
+Asia,Sri Lanka,11669.077,1,0,0,0,0,0
+Africa,Sudan,4466.507,0,0,0,0,1,0
+South America,Suriname,13767.119,0,0,0,1,0,0
+Europe,Sweden,46949.283,0,1,0,0,0,0
+Europe,Switzerland,57410.166,0,1,0,0,0,0
+Asia,Syria,,1,0,0,0,0,0
+Asia,Tajikistan,2896.913,1,0,0,0,0,0
+Africa,Tanzania,2683.304,0,0,0,0,1,0
+Asia,Thailand,16277.671,1,0,0,0,0,0
+Asia,Timor,6570.102,1,0,0,0,0,0
+Africa,Togo,1429.813,0,0,0,0,1,0
+North America,Trinidad and Tobago,28763.071,0,0,1,0,0,0
+Africa,Tunisia,10849.297,0,0,0,0,1,0
+Asia,Turkey,25129.341,1,0,0,0,0,0
+Africa,Uganda,1697.707,0,0,0,0,1,0
+Europe,Ukraine,7894.393,0,1,0,0,0,0
+Asia,United Arab Emirates,67293.483,1,0,0,0,0,0
+Europe,United Kingdom,39753.244,0,1,0,0,0,0
+North America,United States,54225.446,0,0,1,0,0,0
+South America,Uruguay,20551.409,0,0,0,1,0,0
+Asia,Uzbekistan,6253.104,1,0,0,0,0,0
+Oceania,Vanuatu,2921.909,0,0,0,0,0,1
+South America,Venezuela,16745.022,0,0,0,1,0,0
+Asia,Vietnam,6171.884,1,0,0,0,0,0
+Asia,Yemen,1479.147,1,0,0,0,0,0
+Africa,Zambia,3689.251,0,0,0,0,1,0
+Africa,Zimbabwe,1899.775,0,0,0,0,1,0
+,Bermuda,,0,0,0,0,0,0
+,Czech Republic,,0,0,0,0,0,0
+,Greenland,,0,0,0,0,0,0
+,Guam,,0,0,0,0,0,0
+,Hong Kong,,0,0,0,0,0,0
+,Kosovo,,0,0,0,0,0,0
+,Macao,,0,0,0,0,0,0
+,Palestine,,0,0,0,0,0,0
+,Puerto Rico,,0,0,0,0,0,0
